@@ -1,0 +1,85 @@
+.hs{
+font-size: 24px;
+color:silver;
+font-family:Ubuntu;
+text-align: left;
+}
+.OW{
+font-family:Ubuntu;
+color:darkgrey;
+text-align:right;
+}
+.EID{
+border:1px solid black;
+width:132px;
+height:140px;
+border-radius:3px;
+padding: auto;
+width: auto;
+color: darkred;
+text-size-adjust:32px;
+}
+.RQW{
+font-family:Ubuntu;
+font-size:16px;
+color:silver;
+
+}
+.backhere{
+background-image:url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnBsNGJweXVwajN2NXhwN3gyN3VvMnBsOXBxMnpnZzl3cHdjMHcxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1nbweFkb6kqVhNCwJ4/giphy.gif');
+background-position:center;
+background-size:cover;
+overflow: hidden;
+height:100vh;
+padding:0;
+margin:0;   
+}
+.lmth{
+background-color: black;
+}
+.road{
+color:grey;
+font-size:23px;
+text-align:right;
+position: absolute;
+}
+.button {
+    background-color:orange;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align:bottom;
+    text-decoration: none;
+    display:inline-block;
+    font-size: 16px;
+}
+.button1{
+    background-color:aquamarine;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align:bottom;
+    text-decoration: none;
+    display:inline-block;
+    font-size: 16px;
+}
+.button2{
+    background-color:black;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align:bottom;
+    text-decoration: none;
+    display:inline-block;
+    font-size: 16px;
+}
+.button3{
+    background-color:red;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align:bottom;
+    text-decoration: none;
+    display:inline-block;
+    font-size: 16px;
+}
